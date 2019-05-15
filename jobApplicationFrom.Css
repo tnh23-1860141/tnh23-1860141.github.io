@@ -1,0 +1,88 @@
+.container h2{
+    text-align: center;
+    color: darkblue;
+    text-decoration: underline overline;
+    ;
+}
+.container{
+    background-color: tan;
+}
+
+.form-horizontal legend{
+    border: solid;
+    border-color: darkblue;
+    border-width: 3px;
+    width: 200px;
+    height: 50px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: aquamarine;
+}
+
+div.form-group .col-sm-3 {
+    border: dashed;
+    border-width: 3px;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    font-family: cursive;
+    border-color: lightgreen;
+    color: rgb(255, 121, 255);
+    
+}
+body{
+    background-color:lightskyblue;
+}
+
+legend{ 
+    color: red;
+}
+div .form-group{
+    font-family: 'Courier New', Courier, monospace;
+    color: purple;
+}
+
+div .radio{
+    font-size: 25px;
+    color: yellow;
+    
+    
+}
+
+div .checkbox{
+    font-size: 25px;
+    color: lime;
+    
+}
+
+
+ .form-control{ 
+    rows: 7;
+    background-color: pink;
+    
+}
+
+.project{
+    color: green;
+    font-size: 25px;
+}
+
+.control-label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    color: rgb(61, 153, 43);
+}
+ .btn{
+    color:orange;
+    background-color: darkcyan;
+}
+
+.table{
+    background-color: black;
+    border: round;
+    border-radius: 15px;
+   
+
+}
+
