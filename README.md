@@ -23,9 +23,13 @@ _Jessica Hullman_ and _Matthew Kay_ (the MU Collective)
 **Exercise 4.**
 
 There are different types of uncertainty mentioned in the article: 
--reducible 
--irreducible
+- reducible 
+- irreducible
 
 **Exercise 5.**
 
-Even more generally, we can talk about uncertainty in how well our mathematical description of reality matches the real world. Statistical models use imperfect assumptions and approximations about how the world works, and we have uncertainty about how good those approximations are for a problem at hand. Such uncertainty may be qualitative, not quantitative.
+Even more generally, we can talk about uncertainty in how well our mathematical description of reality matches the real world.
+
+Statistical models use imperfect assumptions and approximations about how the world works, and we have uncertainty about how good those approximations are for a problem at hand.
+
+Such uncertainty may be qualitative, not quantitative.
