@@ -10,7 +10,7 @@ Date: January 7th, 2020
 
 **Exercise 1.**
 
-One place where uncertainty comes into play is when we have some target quantity in the world that we want to know (_**a parameter**_ in stats speak). However, often the data we have are limited and cannot _**exactly_** answer the questions we have.
+One place where uncertainty comes into play is when we have some target quantity in the world that we want to know (_**a parameter**_ in stats speak). However, often the data we have are limited and cannot _**exactly**_ answer the questions we have.
 
 **Exercise 2.**
 
@@ -18,11 +18,13 @@ One place where uncertainty comes into play is when we have some target quantity
 _Jessica Hullman_ and _Matthew Kay_ (the MU Collective)
 
 **Exercise 3.**
-
+[Interesting visualization article](https://www.r-bloggers.com/7-visualizations-you-should-learn-in-r/ )
 
 **Exercise 4.**
 
-There are different types of uncertainty mentioned in the article: reducible, irreducible
+There are different types of uncertainty mentioned in the article: 
+-reducible 
+-irreducible
 
 **Exercise 5.**
 
